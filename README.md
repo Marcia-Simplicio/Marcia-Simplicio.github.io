@@ -3,8 +3,7 @@
 **Projeto criado no Treinamento Origamid - Front-End:** <br>
 Projeto Portfólio Fictício usando HTML & CSS Flex e Grid e todas suas funcionalidades e boas práticas, mais semântica, acessibilidade e responsividade. <br>
 Site hospedado no GitHub Page com um favicon tema do Portfólio Lobo. <br>
-Marcia-Simplicio.github.io
-
+https://marcia-simplicio.github.io/
 
 ![image](https://user-images.githubusercontent.com/71258083/158228471-595db5b2-0fe0-49d6-8f77-50de009f254f.png)
 
